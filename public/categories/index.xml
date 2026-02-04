@@ -5,7 +5,24 @@
         <link>http://localhost:1313/categories/</link>
         <description>Recent content in Categories on 小鸟游六花的博客</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>zh-cn</language>
+        <lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>音乐播放软件</title>
+        <link>http://localhost:1313/categories/%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E8%BD%AF%E4%BB%B6/</link>
+        <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E8%BD%AF%E4%BB%B6/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>工作</title>
+        <link>http://localhost:1313/categories/%E5%B7%A5%E4%BD%9C/</link>
+        <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/%E5%B7%A5%E4%BD%9C/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Example Category</title>
         <link>http://localhost:1313/categories/example-category/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
