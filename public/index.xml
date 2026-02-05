@@ -6,7 +6,23 @@
         <description>Recent content on 小鸟游六花的博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 05 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>关于</title>
+        <link>http://localhost:1313/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;h2 id=&#34;-hi-im-rikka&#34;&gt;👋 Hi, I&amp;rsquo;m Rikka
+&lt;/h2&gt;&lt;p&gt;A front-end developer with one year of experience, continuously learning and improving.&lt;/p&gt;
+&lt;h2 id=&#34;-about-me&#34;&gt;🧑‍💻 About Me
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;🌱 Tech stack: Vue 3, TypeScript, modern front-end tooling&lt;/li&gt;
+&lt;li&gt;🎵 Currently building a music player project, focusing on component design and state management&lt;/li&gt;
+&lt;li&gt;🚀 Actively learning front-end engineering practices, performance optimization, and code structure&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>音乐播放功能实现 - 1</title>
         <link>http://localhost:1313/p/%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%8A%9F%E8%83%BD%E5%AE%9E%E7%8E%B0-1/</link>
         <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
@@ -569,34 +585,6 @@
         
         <guid>http://localhost:1313/archives/</guid>
         <description></description>
-        </item>
-        <item>
-        <title>关于</title>
-        <link>http://localhost:1313/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Apache License 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
-&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
-&lt;p&gt;Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
-&lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-</description>
         </item>
         <item>
         <title></title>
