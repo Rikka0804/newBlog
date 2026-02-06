@@ -6,10 +6,10 @@
         <description>Recent content in Tags on 小鸟游六花的博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 05 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Vue3</title>
         <link>http://localhost:1313/tags/vue3/</link>
-        <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/tags/vue3/</guid>
         <description></description>
@@ -17,9 +17,25 @@
         <item>
         <title>播放功能</title>
         <link>http://localhost:1313/tags/%E6%92%AD%E6%94%BE%E5%8A%9F%E8%83%BD/</link>
-        <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/tags/%E6%92%AD%E6%94%BE%E5%8A%9F%E8%83%BD/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>进度条</title>
+        <link>http://localhost:1313/tags/%E8%BF%9B%E5%BA%A6%E6%9D%A1/</link>
+        <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/%E8%BF%9B%E5%BA%A6%E6%9D%A1/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>音量</title>
+        <link>http://localhost:1313/tags/%E9%9F%B3%E9%87%8F/</link>
+        <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/%E9%9F%B3%E9%87%8F/</guid>
         <description></description>
         </item>
         <item>

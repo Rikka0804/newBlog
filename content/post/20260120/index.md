@@ -21,7 +21,8 @@ tags:
 
 ```javascript
 <audio :src="props.src" ref="audio" class="plyr-audio" preload="auto" @timeupdate="timeupdate" />
- <DetaulCenter :orderStatus="orderStatus" :orderStatusVal="musicStore.orderStatusVal" :isPlay="isPlay" 			   @pause="pause" @play="play" @setOrderHandler="setOrderHandler" />
+ <DetaulCenter :orderStatus="orderStatus" :orderStatusVal="musicStore.orderStatusVal" :isPlay="isPlay" 			   
+ @pause="pause" @play="play" @setOrderHandler="setOrderHandler" />
   
 // 重写auido的暂停和播放
 export type userAudio = {
